@@ -1,0 +1,9 @@
+Steps to create free Google Cloud Platform
+1)Go to Google Cloud Platform
+2)Sign up
+3)Create a google account or log in google account
+4)Agree to terma and condition
+5) Provide Billing Information
+6)Verify your identity
+7)Access the Google Cloud Console
+
